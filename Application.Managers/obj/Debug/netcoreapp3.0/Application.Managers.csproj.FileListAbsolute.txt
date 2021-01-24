@@ -1,0 +1,15 @@
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Managers.deps.json
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Managers.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Managers.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Managers.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Managers.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Managers.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Managers.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Managers.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.DA.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Models.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Repositories.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Models.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Repositories.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.DA.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Managers.csproj.CopyComplete

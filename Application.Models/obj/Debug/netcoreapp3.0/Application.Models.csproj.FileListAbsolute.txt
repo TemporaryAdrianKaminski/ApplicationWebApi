@@ -1,0 +1,8 @@
+C:\Users\Adrian\Desktop\ef\Application\Application.Models\bin\Debug\netcoreapp3.0\Application.Models.deps.json
+C:\Users\Adrian\Desktop\ef\Application\Application.Models\bin\Debug\netcoreapp3.0\Application.Models.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Models\bin\Debug\netcoreapp3.0\Application.Models.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Models\obj\Debug\netcoreapp3.0\Application.Models.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.Models\obj\Debug\netcoreapp3.0\Application.Models.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.Models\obj\Debug\netcoreapp3.0\Application.Models.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\ef\Application\Application.Models\obj\Debug\netcoreapp3.0\Application.Models.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Models\obj\Debug\netcoreapp3.0\Application.Models.pdb

@@ -1,0 +1,13 @@
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\bin\Debug\netcoreapp3.0\Application.Repositories.deps.json
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\bin\Debug\netcoreapp3.0\Application.Repositories.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\obj\Debug\netcoreapp3.0\Application.Repositories.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\obj\Debug\netcoreapp3.0\Application.Repositories.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\obj\Debug\netcoreapp3.0\Application.Repositories.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\bin\Debug\netcoreapp3.0\Application.Repositories.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\obj\Debug\netcoreapp3.0\Application.Repositories.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\obj\Debug\netcoreapp3.0\Application.Repositories.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\bin\Debug\netcoreapp3.0\Application.DA.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\bin\Debug\netcoreapp3.0\Application.Models.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\bin\Debug\netcoreapp3.0\Application.DA.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\bin\Debug\netcoreapp3.0\Application.Models.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Repositories\obj\Debug\netcoreapp3.0\Application.Repositories.csproj.CopyComplete

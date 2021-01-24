@@ -1,0 +1,14 @@
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DA.deps.json
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DA.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DA.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DA.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.Models.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DA.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DA.runtimeconfig.json
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DA.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DA.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.Models.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DA.csproj.CopyComplete
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DA.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DA.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DA.genruntimeconfig.cache
