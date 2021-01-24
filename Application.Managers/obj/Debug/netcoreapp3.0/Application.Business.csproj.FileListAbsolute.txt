@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Business.deps.json
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Business.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.Business.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.DAL.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\bin\Debug\netcoreapp3.0\Application.DAL.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Business.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Business.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Business.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Business.csproj.CopyComplete
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Business.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Managers\obj\Debug\netcoreapp3.0\Application.Business.pdb

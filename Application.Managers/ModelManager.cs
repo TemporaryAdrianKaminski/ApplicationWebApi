@@ -1,7 +1,7 @@
 ﻿using Application.Managers.Common;
 using Application.Managers.Interfaces;
-using Application.Models;
-using Application.Repositories.Interfaces;
+using Application.DAL.Models;
+using Application.DAL.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

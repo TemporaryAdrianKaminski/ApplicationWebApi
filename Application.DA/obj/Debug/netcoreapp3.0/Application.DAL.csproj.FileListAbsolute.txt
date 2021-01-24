@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DAL.deps.json
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DAL.runtimeconfig.json
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DAL.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DAL.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\bin\Debug\netcoreapp3.0\Application.DAL.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DAL.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DAL.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DAL.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DAL.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DAL.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.DA\obj\Debug\netcoreapp3.0\Application.DAL.genruntimeconfig.cache

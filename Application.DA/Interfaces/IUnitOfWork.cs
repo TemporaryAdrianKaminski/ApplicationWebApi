@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Application.Repositories.Interfaces
+namespace Application.DAL.Interfaces
 {
     public interface IUnitOfWork
     {

@@ -21,8 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Application.DA\Application.DA.csproj" />
-    <ProjectReference Include="..\Application.Managers\Application.Managers.csproj" />
+    <ProjectReference Include="..\Application.DA\Application.DAL.csproj" />
+    <ProjectReference Include="..\Application.Managers\Application.Business.csproj" />
   </ItemGroup>
 
 </Project>

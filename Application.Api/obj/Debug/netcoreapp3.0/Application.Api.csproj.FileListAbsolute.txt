@@ -78,10 +78,6 @@ C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\r
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.DA.dll
-C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.Models.dll
-C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.DA.pdb
-C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.Models.pdb
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -154,10 +150,6 @@ C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\r
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.Managers.dll
-C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.Repositories.dll
-C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.Managers.pdb
-C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.Repositories.pdb
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -192,3 +184,7 @@ C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\r
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.Business.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.DAL.dll
+C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.DAL.pdb
+C:\Users\Adrian\Desktop\ef\Application\Application.Api\bin\Debug\netcoreapp3.0\Application.Business.pdb

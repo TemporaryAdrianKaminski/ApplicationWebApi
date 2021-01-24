@@ -2957,59 +2957,32 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Application.DA/1.0.0": {
+      "Application.Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "Application.Models": "1.0.0",
+          "Application.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Application.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.Business.dll": {}
+        }
+      },
+      "Application.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.2"
         },
         "compile": {
-          "bin/placeholder/Application.DA.dll": {}
+          "bin/placeholder/Application.DAL.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Application.DA.dll": {}
-        }
-      },
-      "Application.Managers/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "Application.Models": "1.0.0",
-          "Application.Repositories": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Application.Managers.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Application.Managers.dll": {}
-        }
-      },
-      "Application.Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "compile": {
-          "bin/placeholder/Application.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Application.Models.dll": {}
-        }
-      },
-      "Application.Repositories/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "Application.DA": "1.0.0",
-          "Application.Models": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "5.0.2"
-        },
-        "compile": {
-          "bin/placeholder/Application.Repositories.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Application.Repositories.dll": {}
+          "bin/placeholder/Application.DAL.dll": {}
         }
       }
     }
@@ -9288,31 +9261,21 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Application.DA/1.0.0": {
+    "Application.Business/1.0.0": {
       "type": "project",
-      "path": "../Application.DA/Application.DA.csproj",
-      "msbuildProject": "../Application.DA/Application.DA.csproj"
+      "path": "../Application.Managers/Application.Business.csproj",
+      "msbuildProject": "../Application.Managers/Application.Business.csproj"
     },
-    "Application.Managers/1.0.0": {
+    "Application.DAL/1.0.0": {
       "type": "project",
-      "path": "../Application.Managers/Application.Managers.csproj",
-      "msbuildProject": "../Application.Managers/Application.Managers.csproj"
-    },
-    "Application.Models/1.0.0": {
-      "type": "project",
-      "path": "../Application.Models/Application.Models.csproj",
-      "msbuildProject": "../Application.Models/Application.Models.csproj"
-    },
-    "Application.Repositories/1.0.0": {
-      "type": "project",
-      "path": "../Application.Repositories/Application.Repositories.csproj",
-      "msbuildProject": "../Application.Repositories/Application.Repositories.csproj"
+      "path": "../Application.DA/Application.DAL.csproj",
+      "msbuildProject": "../Application.DA/Application.DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Application.DA >= 1.0.0",
-      "Application.Managers >= 1.0.0",
+      "Application.Business >= 1.0.0",
+      "Application.DAL >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 3.0.0",
@@ -9348,11 +9311,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.DA\\Application.DA.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.DA\\Application.DA.csproj"
+            "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.DA\\Application.DAL.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.DA\\Application.DAL.csproj"
             },
-            "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\Application.Managers.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\Application.Managers.csproj"
+            "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\Application.Business.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\Application.Business.csproj"
             }
           }
         }

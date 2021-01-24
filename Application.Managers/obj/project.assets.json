@@ -1683,45 +1683,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Application.DA/1.0.0": {
+      "Application.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "Application.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.2"
         },
         "compile": {
-          "bin/placeholder/Application.DA.dll": {}
+          "bin/placeholder/Application.DAL.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Application.DA.dll": {}
-        }
-      },
-      "Application.Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "compile": {
-          "bin/placeholder/Application.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Application.Models.dll": {}
-        }
-      },
-      "Application.Repositories/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "Application.DA": "1.0.0",
-          "Application.Models": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "5.0.2"
-        },
-        "compile": {
-          "bin/placeholder/Application.Repositories.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Application.Repositories.dll": {}
+          "bin/placeholder/Application.DAL.dll": {}
         }
       }
     }
@@ -6144,26 +6118,15 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Application.DA/1.0.0": {
+    "Application.DAL/1.0.0": {
       "type": "project",
-      "path": "../Application.DA/Application.DA.csproj",
-      "msbuildProject": "../Application.DA/Application.DA.csproj"
-    },
-    "Application.Models/1.0.0": {
-      "type": "project",
-      "path": "../Application.Models/Application.Models.csproj",
-      "msbuildProject": "../Application.Models/Application.Models.csproj"
-    },
-    "Application.Repositories/1.0.0": {
-      "type": "project",
-      "path": "../Application.Repositories/Application.Repositories.csproj",
-      "msbuildProject": "../Application.Repositories/Application.Repositories.csproj"
+      "path": "../Application.DA/Application.DAL.csproj",
+      "msbuildProject": "../Application.DA/Application.DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Application.Models >= 1.0.0",
-      "Application.Repositories >= 1.0.0"
+      "Application.DAL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6172,9 +6135,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\Application.Managers.csproj",
-      "projectName": "Application.Managers",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\Application.Managers.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\Application.Business.csproj",
+      "projectName": "Application.Business",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\Application.Business.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Managers\\obj\\",
       "projectStyle": "PackageReference",
@@ -6192,11 +6155,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Models\\Application.Models.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Models\\Application.Models.csproj"
-            },
-            "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Repositories\\Application.Repositories.csproj": {
-              "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.Repositories\\Application.Repositories.csproj"
+            "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.DA\\Application.DAL.csproj": {
+              "projectPath": "C:\\Users\\Adrian\\Desktop\\ef\\Application\\Application.DA\\Application.DAL.csproj"
             }
           }
         }
